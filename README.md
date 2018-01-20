@@ -21,7 +21,7 @@ First install dependencies (```npm install```), then do:
 
 ```$ gulp eugen --src=path/to/website --dst=bundle```
 
-That will create inside ```bundle``` folder as many  ```.html``` files as where in the ```website``` folder. 
+That will create inside ```bundle``` folder as many  ```.html``` files as it found in the ```website``` folder. 
 
 ## Ak
 Thanks to Eugen for developing this tool
