@@ -1,7 +1,8 @@
 # gulp-eugen
 
-## About
 <img src="https://raw.githubusercontent.com/MorrisDa/gulp-eugen/master/img/eug.png" width="300"/>
+
+## About
 
 gulp-eugen is a gulp file. 
 gulp-eugen process ```.html``` files and inline all the assets in single ```.html``` files. 
